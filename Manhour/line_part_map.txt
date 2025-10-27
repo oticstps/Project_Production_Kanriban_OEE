@@ -1,0 +1,12 @@
+Common Rail 1 - ASHOK H6A, MDE8, P3267, E494 (B20), P3263
+Common Rail 2 - 902FA, 902FA-PTJ
+Common Rail 3 - 4N13, VM, VM USA, RT56, JDE20, 902F I
+Common Rail 4 - 4N16, 4N16-B, MDE5
+Common Rail 5 - 902F E, 902F E-SGI167, 902FE-PTJ, RT-50, ASHOK N4, ASHOK N6, 634F
+Common Rail 6 - RZ4E, RZE4 B
+Common Rail 7 - 4N15, YD2K3, S320,YD25,CR22 B
+Common Rail 8 - 415F, 902FC, 902f c 
+Common Rail 9 - GD B, 902F B, 902F-B
+Common Rail 10 - 902F G, 902FG, RG01 B
+Common Rail 11 - 902FD, 19MY, RZ4E A
+Common Rail 12 - 902F-F, ES01-B, ES01B
