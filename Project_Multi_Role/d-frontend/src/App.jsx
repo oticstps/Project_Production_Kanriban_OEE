@@ -1,4 +1,6 @@
 import { useState, useEffect, createContext, useContext } from 'react';
+import ApiTest from './components/ApiTest';
+
 
 const API_URL = 'http://localhost:5000/api';
 
@@ -361,6 +363,10 @@ function Dashboard() {
           </div>
 
           <div className="p-6">
+
+
+
+            <ApiTest />
             {activeTab === 'profile' && (
               <div>
                 <h2 className="text-2xl font-bold mb-4">Profile Information</h2>
@@ -484,12 +490,27 @@ function Dashboard() {
                 </div>
               </div>
             )}
+
+
+
+
           </div>
         </div>
       </div>
     </div>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
 
 export default function App() {
   const [showRegister, setShowRegister] = useState(false);
